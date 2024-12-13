@@ -3,10 +3,10 @@ sidebar_position: 3
 ---
 
 # Share
-
-The user must click the **share icon** (1), copy the URL by choosing **copy to clipboard** (2), and then share the bible chapter on other platforms such as Facebook, Whats App.
-
-
+Users can share the chapter and verse with their friends and family by clicking the share icon.
+To access the share feature, the user must click the **share icon** **(1)**, copy the URL by choosing **copy to clipboard** **(2)**, and then share the bible chapter on other platforms such as Facebook, Whats App.
 
 
-<img src="\img\share.jpeg (1).png" width="300px" alt="share"/>
+
+
+<img src="\img\sharecopy.jpeg.png" width="300px" alt="share"/>
