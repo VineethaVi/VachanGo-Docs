@@ -32,4 +32,25 @@ const sidebars = {
    */
 };
 
+
+vachan: [
+  "Introduction",
+  
+  {
+    type: "category",
+    label: "Features",
+    collapsed: false,
+    link: {
+      type: "generated-index",
+    },
+items: [
+      "readbible",
+      "audiobible",
+      "share",
+      "settings",
+ ],
+  },
+]
+
 export default sidebars;
+
