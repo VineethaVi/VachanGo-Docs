@@ -5,9 +5,9 @@ sidebar_position: 6
 # Settings
 
 The user can choose the font, adjust the font size and read the passage in line view by clicking on the **settings icon** **(1)** and a **settings drawer(2)** will appear.
-The user can find the details for the resource by clicking on the Information icon.
 
-<img src="/img/settingscopy.jpeg.png" width="300px" alt="settings"/>
+
+<img src="/img/crossref.png" width="300px" alt="settings"/>
 
 ##
 
@@ -41,6 +41,9 @@ The Bible content will be displayed as line view.
 
 If the user does not wish to read the passage in line view, user can disable the option.
 
+**Cross-Reference and Footnotes**
+
+While studying the Bible, users have the option to enable or disable cross-references and footnotes for a more tailored reading experience.
 
 **Information**
 

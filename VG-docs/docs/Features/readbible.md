@@ -31,7 +31,7 @@ The user must click the share icon **(3)**, copy the URL by choosing copy to cli
 
 **Settings​**
 
-The user can choose the font, adjust the font size and read the passage in line view by clicking on the settings icon **(5)**.​
+Several options are available in the settings drop-down menu **(5)** to assist the user in reading the Bible. 
 
 ​
 

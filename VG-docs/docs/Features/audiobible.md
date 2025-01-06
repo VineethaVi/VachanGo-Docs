@@ -4,7 +4,8 @@ sidebar_position: 2
 
 # Audio Bible
 
-To access  the available Audio Bibles, choose the desired language and version from the version drop-down menu and select the book and chapter from the Book drop-down menu **(1)**.On the Read Bible page the user must click on the **Audio Bible icon** **(2)** at the top bar.​
+To access the Audio Bibles, the user must select the desired language and Version from the the drop-down menu **(1)**.
+The user must click on the Audio Bible icon **(2)**.
 
 To listen to the Audio Bible, the user must click the play button **(3)**. ​
 
